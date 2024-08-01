@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 [![Linked In Badge](https://img.shields.io/badge/Linked_In-458588?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/andrii-omelnitskyi-185193234/)
 [![telegram Badge](https://img.shields.io/badge/Telegram-458588?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/blackgolyb)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-458588?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:aomelnitsky@gmail.com)
+
+
+### Game:
+
+|Tic|Tac|Toe|
+|-|-|-|
+|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/0)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/0)|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/1)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/1)|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/2)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/2)|
+|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/3)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/3)|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/4)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/4)|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/5)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/5)|
+|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/6)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/6)|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/7)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/7)|[![](https://tic_tac_toe_api.serveo.net/api/v1/g/get_field/8)](https://tic_tac_toe_api.serveo.net/api/v1/g/update_field/8)|
