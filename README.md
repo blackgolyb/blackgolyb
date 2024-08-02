@@ -2,7 +2,7 @@
 
 ### My portfolio:
 
-[![portfolio Badge](https://img.shields.io/badge/PORTFOLIO-cc241d?style=for-the-badge)](https://blackgolyb.github.io)
+[![portfolio Badge](https://img.shields.io/badge/PORTFOLIO-FDD11C?style=for-the-badge)](https://blackgolyb.github.io)
 
 <!--
 **blackgolyb/blackgolyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Linked In Badge](https://img.shields.io/badge/Linked_In-458588?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/andrii-omelnitskyi-185193234/)
-[![telegram Badge](https://img.shields.io/badge/Telegram-458588?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/blackgolyb)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-458588?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:aomelnitsky@gmail.com)
+[![Linked In Badge](https://img.shields.io/badge/Linked_In-4085DE?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/andrii-omelnitskyi-185193234/)
+[![telegram Badge](https://img.shields.io/badge/Telegram-4085DE?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/blackgolyb)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-4085DE?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:aomelnitsky@gmail.com)
 
 
 ### Game:
