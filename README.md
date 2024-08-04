@@ -28,8 +28,14 @@ Here are some ideas to get you started:
 
 ### Game:
 
+Current Player:
+<img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_current_player" width="20"/>
+
 |Tic|Tac|Toe|
 |-|-|-|
 |<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/0?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/0" width="100"/></a>|<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/1?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/1" width="100"/></a>|<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/2?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/2" width="100"/></a>|
 |<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/3?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/3" width="100"/></a>|<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/4?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/4" width="100"/></a>|<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/5?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/5" width="100"/></a>|
 |<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/6?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/6" width="100"/></a>|<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/7?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/7" width="100"/></a>|<a href="https://tic_tac_toe_api.serveo.net/api/v1/gh/update_field/8?r=https://github.com/blackgolyb"><img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_field/8" width="100"/></a>|
+
+
+> When the game is over, you can take your first step in any field
