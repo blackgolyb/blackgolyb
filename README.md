@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Game:
 
 Current Player:
-<img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_current_player" height="20"/>
+<img src="https://tic_tac_toe_api.serveo.net/api/v1/gh/get_current_player" height="14"/>
 
 |Tic|Tac|Toe|
 |-|-|-|
