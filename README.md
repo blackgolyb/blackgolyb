@@ -3,7 +3,7 @@
 ### My portfolio:
 
 [![portfolio Badge](https://img.shields.io/badge/PORTFOLIO-FDD11C?style=for-the-badge)](https://blackgolyb.github.io)
-[![cv Badge](https://img.shields.io/badge/CV-FDD11C?style=for-the-badge)](https://github.com/blackgolyb/cv/releases/latest/download/Omelnitskyi_Andrii_CV.pdf)
+[![cv Badge](https://img.shields.io/badge/CV-FDD11C?style=for-the-badge)](https://github.com/blackgolyb/cv/releases/latest/download/CV_Omelnitskyi_Andrii_Python_Developer.pdf)
 
 ### Connect with me:
 
